@@ -34,7 +34,37 @@ texto aqui
 <p>•	Sistema de notificação: Implementar a funcionalidade de envio de mensagens automáticas aos leitores por E-mail, SMS ou whatsApp, dependendo da preferência do usuário.</p>
 
 ## 4. TELAS DA FUNCIONALIDADE IMPLEMENTADA
-telas aqui
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/01.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/02.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/03.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/04.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/05.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/06.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/07.png)
+<p></p>1. Tela de login
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/08.png)
+<p></p>1. Tela de login
+<p></p>
 
 ## 5. CONSIDERAÇÕES FINAIS
 TEXTO AQUI
