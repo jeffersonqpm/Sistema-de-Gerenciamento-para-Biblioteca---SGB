@@ -923,11 +923,11 @@ public void usuarioLogado(){ // CONEXÃO COM O BANDO DE DADOS PARA PEGAR NA TABE
 <p></p>7. Tela cadastro de livros
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/07.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/07_2.png)
 <p></p>8. Tela cadastro de usuário
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/08.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/08_2.png)
 <p></p>9. Tela empréstimo
 <p></p>
 
