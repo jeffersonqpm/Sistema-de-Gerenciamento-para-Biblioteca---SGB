@@ -935,6 +935,14 @@ public void usuarioLogado(){ // CONEXÃO COM O BANDO DE DADOS PARA PEGAR NA TABE
 <p></p>10. Tela consulta de livros
 <p></p>
 
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/11.png)
+<p></p>11. Tela consulta de livros
+<p></p>
+
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/12.png)
+<p></p>12. Tela consulta de livros
+<p></p>
+
 ## 5. CONSIDERAÇÕES FINAIS
 TEXTO AQUI
 ## 6. BIBLIOGRAFIA
