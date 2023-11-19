@@ -71,6 +71,10 @@ texto aqui
 <p></p>9. Tela empréstimo
 <p></p>
 
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca---SGB/blob/main/Imagens/10.png)
+<p></p>10. Tela consulta de livros
+<p></p>
+
 ## 5. CONSIDERAÇÕES FINAIS
 TEXTO AQUI
 ## 6. BIBLIOGRAFIA
