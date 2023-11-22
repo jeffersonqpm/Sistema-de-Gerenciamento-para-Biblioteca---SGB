@@ -1,4 +1,4 @@
-## 4. TELAS DA FUNCIONALIDADE IMPLEMENTADA
+## TELAS DA FUNCIONALIDADE IMPLEMENTADA
 ![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/01.png)
 <p></p>1. Tela de login
 <p></p>
