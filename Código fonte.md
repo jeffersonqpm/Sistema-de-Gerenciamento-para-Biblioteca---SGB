@@ -214,7 +214,7 @@ public class Livro {
 }
 ```
 
-# Classe Log
+## Classe Log
 
 ```
 package model;
@@ -237,7 +237,7 @@ public class Log {
 
 ```
 
-# Classe LoginCliente
+## Classe LoginCliente
 
 ```
 
@@ -420,7 +420,7 @@ public class Pessoa {
 }
 ```
 
-#Classe Usuario
+## Classe Usuario
 
 ```
 package model;
