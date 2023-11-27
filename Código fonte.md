@@ -6203,7 +6203,7 @@ public class TelaCliente extends javax.swing.JFrame {
 
 
 
-# Código CREATE - SQL
+# Código CREATE - MySQL
 ### banco biblioteca
 ```
 CREATE DATABASE `biblioteca` 
