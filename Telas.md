@@ -12,23 +12,23 @@
 <p></p>3. Tela pricipal do leitor
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/03.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/03_2.png)
 <p></p>4. Tela cadastro de editora
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/04.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/04_2.png)
 <p></p>5. Tela cadastro de autor
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/05.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/05_2.png)
 <p></p>6. Tela cadastro de leitor
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/06.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/06_2.png)
 <p></p>7. Tela cadastro de livros
 <p></p>
 
-![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/07_2.png)
+![Imagens](https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/Imagens/07_3.png)
 <p></p>8. Tela cadastro de usuário
 <p></p>
 
