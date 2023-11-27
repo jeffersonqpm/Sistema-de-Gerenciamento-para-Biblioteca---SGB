@@ -19,7 +19,7 @@ Projeto realizado para a disciplina de Tópicos Integradores
 
 <p>Todos os dados estão sendo armazenados no banco de dados MySQL. </p>
 
-## CÓDIGO-FONTE DA FUNCIONALIDADE IMPLEMENTADA
+## 1. CÓDIGO-FONTE DA FUNCIONALIDADE IMPLEMENTADA
 
 https://github.com/jeffersonqpm/Sistema-de-Gerenciamento-para-Biblioteca-SGB/blob/main/C%C3%B3digo%20fonte.md
 
